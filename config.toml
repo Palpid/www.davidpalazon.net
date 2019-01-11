@@ -1,0 +1,59 @@
+baseURL = "http://localhost:1313"
+languageCode = "en-us"
+title = "Mi pensadero Digital"
+theme = "campser"
+
+[permalinks]
+    post = '/:year/:month/:slug'
+[author]
+    name = "David Palazón"
+    bio = "sssss"
+    location = "Santa Coloma de Gramenet, Barcelona"
+    website = "http://localhost:1313"
+    thumbnail = "/avatars/david.png"
+[params]
+    description = "Partiendo de la idea de las Historias de Harry Potter ,  objeto que servia para guardar y consultar  posteriormente pensamientos de Interes."
+    cover = "/layout/cover_singapore.jpg" # Homepage cover
+    logo = "/logos/triskelion-spiral.png"
+    # Social links on the homepage
+    linkedinName = 'david-palazón-bermudez-b34a0a17'
+    githubName = 'Palpid'
+    flickrName = 'people/palpid'
+    twitterName = 'DavidBermd'
+    facebookName = 'Palpid'
+    instagramName = 'palpid'
+    email = 'david.palazon@gmail.com'
+    pinterestName = 'david_palazon'
+    googlePlusName = 'DavidPalazon'
+
+    ampElements = ["amp-accordion","amp-analytics", "amp-sidebar"] # AMP elements loaded on every page
+    themeColor = "#ffffff" # Browser bar color
+    googleanalytics = "UA-131532688-1"
+
+# Where can we share?
+[params.share]
+    twitter = true
+    gplus = true
+    pinterest = true
+    facebook = true
+
+[[menu.main]]
+    name = 'Home'
+    weight = 1
+    url = '/'
+
+[[menu.main]]
+    name = 'My photo gallery'
+    weight = 200
+    url = 'https://instagram.com/me/'
+[[menu.main]]
+  weight = 100
+
+
+
+[[menu.main]]
+    pre = "Links"
+    name = 'Acerca de mi'
+    weight = 300
+    url = 'http://aboutme.davidpalazon.net'
+
