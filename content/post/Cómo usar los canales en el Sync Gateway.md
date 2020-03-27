@@ -1,4 +1,21 @@
+---
+title: "Como usar los canales en Sync Gateway de couchbase"
+date: 2020-03-27T16:24:45+01:00
+draft: false
+slug: "sync_couchbase_mobile_channels_sync"
+tags: ["couchbase","sync"]
+categories: ["Database","Mobile"]
+markup: mmark
+comments: true 
+noauthor: true 
+---
+
+
 # Cómo usar los canales en el Sync Gateway
+
+ 
+*** Nota: Esta publicación es una traducción libre de una entrada del blog de couchbase. Para uso personal ***
+
 
 ![](http://)
 

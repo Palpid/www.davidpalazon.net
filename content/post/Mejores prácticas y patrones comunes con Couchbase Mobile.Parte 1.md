@@ -1,4 +1,16 @@
-# Mejores prácticas y patrones comunes con Couchbase Mobile : Parte 1
+---
+title: "Mejores prácticas y patrones comunes con Couchbase Mobile"
+date: 2020-03-27T16:26:45+01:00
+draft: false
+slug: "best_practice_couchbase_sync"
+tags: ["couchbase","sync"]
+categories: ["Database","Mobile","Sync"]
+markup: mmark
+comments: true 
+noauthor: true 
+---
+
+# Mejores prácticas y patrones comunes con Couchbase Mobile  
 
 Desde su primera publicación oficial en 2014, Couchbase Mobile ha permitido una amplia variedad de casos de uso de diversos grados de escala y complejidad. A pesar de la variación, hay algunos patrones de uso comunes para el uso de Couchbase Mobile.
 
