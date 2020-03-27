@@ -22,5 +22,5 @@ Couchbase Mobile lleva el poder de NoSQL al límite y está compuesto de tres co
 
 El siguiente diagrama describe la arquitectura para un despliegue típico compuesto por Couchbase Lite, Couchbase Server SDKs, Sync Gateway y Couchbase Server.
 
-![Couchbase](http://blog.davidpalazon.net/images/cbm-architecture.png)
+![Couchbase](http://blog.davidpalazon.net/images/cbm-architecture800x600.png)
 
