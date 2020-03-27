@@ -3,7 +3,7 @@ title: "Sincronizando  con Couchbase Mobile Aplicaciones de dibujo"
 date: 2020-03-27T16:15:45+01:00
 draft: false
 slug: "sync_couchbase_mobile_draw_app"
-tags: ["coubase","sync"]
+tags: ["couchbase","sync"]
 categories: ["Database","Mobile"]
 markup: mmark
 comments: true 
