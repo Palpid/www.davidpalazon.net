@@ -16,7 +16,7 @@
   "homepage": "https://github.com/DanielMuller/hugo-theme-campser",
   "devDependencies": {
     "cssnano": "^3.10.0",
-    "node-sass": "^4.5.0",
+    "node-sass": "^4.13.1",
     "nodemon": "^1.11.0",
     "postcss": "^5.2.15"
   }
